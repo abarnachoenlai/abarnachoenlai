@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abarna%20C&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electronics%20Engineer%20%7C%20Embedded%20Systems%20%7C%20Python%20Developer&descAlignY=55" width="100%"/>
 
 <a href="https://github.com/abarnachoenlai">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+Enthusiast;Python+Developer;Problem+Solver;Learning+AI+%26+IoT;Building+Innovative+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+Enthusiast;Good+Communicator;Problem+Solver;Learning+AI+%26+IoT;Building+Innovative+Projects" alt="Typing SVG" />
 </a>
 
 <br/>
